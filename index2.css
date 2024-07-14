@@ -1,0 +1,36 @@
+img{
+    width: 100%;
+}
+section{
+    padding-top: 30px;
+    margin-left: 150px;
+    background-color: white;
+    padding-left: 30px;
+    border-radius: 20px;
+    max-width: 500px;
+    padding-right: 30px;
+    font-family: 'inter',sans-serif;
+}
+body{
+    background: bisque;
+    color: black;
+    display: grid;
+    place-content: center;
+}
+.preparation{
+    background-color:hsl(330, 100%,98%);
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.preparation  >h6{
+    color: hsl(332, 51%,32%);
+    padding-top: 15px;
+    padding-left: 20px;
+}
+.preparation >li{
+    padding-left: 25px;
+    margin-bottom: 6px;
+}
+.heading{
+    color: hsl(332, 51%,32%);
+}
